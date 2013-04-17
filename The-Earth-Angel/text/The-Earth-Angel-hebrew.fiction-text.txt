@@ -1,0 +1,28 @@
+<body id="index" lang="he-IL">
+<!-- kate: syntax normal; -->
+<title>האפיפיור מת ביום ראשון</title>
+
+<s id="copyright" lang="en-UK">
+
+<title>Copyright</title>
+
+This is a fictional story that is being written by <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and is original artwork.
+
+It is made available under the
+<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Non Commercial-Share Alike 3.0 Unported Licence (CC-by-sa)</a>
+(or at your option - any later version).
+
+See <a href="http://www.shlomifish.org/meta/copyrights/">Shlomi Fish’s Copyright Terms Page</a> for how to comply with this licence.
+
+</s>
+
+<s id="foo">
+
+<title>אין כאן כלום</title>
+
+אין כלום.
+
+</s>
+
+</body>
+

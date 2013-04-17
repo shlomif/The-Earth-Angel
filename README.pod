@@ -1,0 +1,27 @@
+=encoding utf8
+
+=head1 The Earth Angel - Source Repository.
+
+=head2 About
+
+This repository contains the sources for I<The Earth Angel>,
+an original (and work-in-progress) novella by Shlomi Fish
+(L<http://www.shlomifish.org/>).
+
+=head2 Links
+
+=over 4
+
+=item * Homepage
+
+L<http://www.shlomifish.org/humour/The-Earth-Angel/>
+
+=back
+
+=head2 Building
+
+Go to C<The-Earth-Angel/text/> and type C<make> .
+
+=head2 Ideas document / plot summary
+
+None yet.

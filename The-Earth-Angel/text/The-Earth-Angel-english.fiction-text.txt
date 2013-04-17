@@ -1,0 +1,34 @@
+<body id="index" lang="he-IL">
+<!-- kate: syntax normal; -->
+<title>The Earth Angel</title>
+
+<s id="copyright" lang="en-UK">
+
+<title>Copyright</title>
+
+This is a fictional story that is being written by
+<a href="http://www.shlomifish.org/">Shlomi Fish</a>, and is original
+artwork.
+
+It is made available under the
+<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons
+Attribution-Share Alike 3.0 Unported Licence (CC-by-nc-sa)</a>
+(or at your option - any later version).
+
+See <a href="http://www.shlomifish.org/meta/copyrights/">Shlomi Fish’s
+Copyright Terms Page</a> for how to comply with this licence.
+
+</s>
+
+<s id="you-will-meet-the-earth-angel">
+
+<title>You Will Meet the Earth Angel</title>
+
+Mr. <b>Fill in</b> did not see that side of Samantha before. As they sat there
+in the Chinese restaurant, two days before Daniel, their system administrator
+left for a trip to Israel, Samantha was
+
+</s>
+
+</body>
+
