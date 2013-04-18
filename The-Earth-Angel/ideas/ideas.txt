@@ -3,7 +3,7 @@ Characters:
 
 #. Matthew “Matt” Jackson
     - former Sergeant in the U.S. Army
-        - a Combat soldier
+        - was a Combat soldier
     - working as a software developer for a small consulting
     firm in Los Angeles.
     - co-authored a screenplay along with his coworkers for a play that was
@@ -23,4 +23,14 @@ Characters:
         1. Go to law school.
         2. Find a paying job.
         3. Stay in the academia.
-    - 
+
+#. Dr. Alan Fiscehlson, Attn.
+    - Head of the law company.
+    - Works for long hours.
+    - Story is set through his eyes.
+
+#. Ari Cox
+    - A young high school graduate who works as a system/network
+    administrator for the law offices.
+    - His mother is Jewish.
+    - About to leave for a long trip to Israel.
