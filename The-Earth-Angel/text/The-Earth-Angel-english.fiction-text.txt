@@ -136,9 +136,6 @@ Foo: <b>To be continued</b>
 
 “Maybe I did.” Samantha replied.
 
-“
-
-
 </s>
 
 </body>
