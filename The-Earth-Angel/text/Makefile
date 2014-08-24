@@ -1,34 +1,10 @@
-FILES = Makefile $(DOCS_FICTION_XHTML) \
-		$(DOCS_FICTION_TEXT) $(DOCS_FICTION_DB5) \
-		$(ENG_DB_PROCESSED) $(ENG_DB_SOURCE) \
-		style.css style-heb.css \
-		README.html
-
-# The-Enemy-English.xhtml \
-
 STORY = The-Earth-Angel
 HEB_STORY = $(STORY)-hebrew
 ENG_STORY = $(STORY)-english
 
-ENG_EPUB = $(ENG_STORY).epub
+include $(SCREENPLAY_COMMON_INC_DIR)/fictions_common.mak
 
-STORY_LANGUAGE_BASES = $(HEB_STORY) $(ENG_STORY)
-
-DOCS_FICTION_TEXT = $(patsubst %,%.fiction-text.txt,$(STORY_LANGUAGE_BASES))
-DOCS_FICTION_XML = $(patsubst %,%.fiction-xml.xml,$(STORY_LANGUAGE_BASES))
-DOCS_FICTION_DB5 = $(patsubst %,%.db5.xml,$(STORY_LANGUAGE_BASES))
-DOCS_FICTION_XHTML = $(patsubst %,%.fiction-text.xhtml,$(STORY_LANGUAGE_BASES))
-DOCS_FICTION_FO = $(patsubst %,%.fiction-text.fo,$(STORY_LANGUAGE_BASES))
-DOCS_FICTION_RTF = $(patsubst %,%.fiction-text.rtf,$(STORY_LANGUAGE_BASES))
-DOCS_FICTION_ODT = $(patsubst %,%.odt,$(STORY_LANGUAGE_BASES))
-DOCS_FICTION_HTML_FOR_OOO = $(patsubst %,%.for-openoffice.html,$(STORY_LANGUAGE_BASES))
-
-ENG_DB_PROCESSED = $(ENG_STORY).db5.xml
 ENG_DB_POST_PROCESSED = $(ENG_STORY).postproc-db5.xml
-ENG_DB_XSLT = docbook-epub-preproc.xslt
-ENG_DB_SOURCE = $(ENG_STORY).db5.xml
-
-ENG_EPUB_XSLT = $(ENG_DB_XSLT)
 
 DOCBOOK5_XSL_STYLESHEETS_PATH := $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 
