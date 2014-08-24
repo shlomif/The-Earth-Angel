@@ -10,8 +10,6 @@ $(DOCS_FICTION_DB5): %.db5.xml: %.fiction-xml.xml
 	perl -MXML::Grammar::Fiction::App::ToDocBook -e 'run()' -- \
 		-o $@ $<
 
-DB5_TO_DB5_XSLT = docbook-to-docbook.xslt
-
 $(ENG_DB_POST_PROCESSED): $(ENG_DB_PROCESSED) $(DB5_TO_DB5_XSLT)
 	xsltproc -o $@ $(DB5_TO_DB5_XSLT) $(ENG_DB_PROCESSED)
 
