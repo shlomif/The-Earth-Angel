@@ -2,7 +2,7 @@
 <!-- kate: syntax normal; -->
 <title>האפיפיור מת ביום ראשון</title>
 
-<s id="copyright" lang="en-UK">
+<s id="copyright" lang="en">
 
 <title>Copyright</title>
 

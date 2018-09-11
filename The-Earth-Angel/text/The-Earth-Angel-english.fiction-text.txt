@@ -1,8 +1,8 @@
-<body id="index" lang="he-IL">
+<body id="index" lang="en">
 <!-- kate: syntax normal; -->
 <title>The Earth Angel</title>
 
-<s id="copyright" lang="en-UK">
+<s id="copyright" lang="en">
 
 <title>Copyright</title>
 
