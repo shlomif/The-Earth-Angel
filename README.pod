@@ -24,4 +24,7 @@ Go to C<The-Earth-Angel/text/> and type C<make> .
 
 =head2 Ideas document / plot summary
 
-None yet.
+The Earth angel is a black man, who, having served in the US Army,
+does not mind white people addressing him as "nigger" or "nigga".
+
+=cut
